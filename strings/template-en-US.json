@@ -1,0 +1,18 @@
+{
+  "emptyPlaylist": "This playlist is empty.",
+  "signIn": "Sign In",
+  "myAccount": "My Account",
+  "preFooterContent": "Pre-Footer Content",
+  "by": "by",
+  "newerPosts": "Newer Posts",
+  "olderPosts": "Older Posts",
+  "comment": "Comment",
+  "tagged": "Tagged",
+  "readMore": "Read More",
+  "source": "Source",
+  "backToTop": "Back To Top",
+  "cart": "Cart",
+  "filter": "Filter",
+  "all": "All",
+  "commentCountMessage": "{0, plural, one{# Comment} other {# Comments}}"
+}

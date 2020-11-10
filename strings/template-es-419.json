@@ -1,0 +1,18 @@
+{
+  "emptyPlaylist" : "Esta lista de reproducción está vacía.",
+  "signIn" : "Iniciar Sesión",
+  "myAccount" : "Mi Cuenta",
+  "preFooterContent" : "Contenido del pre-pie de página",
+  "by" : "por",
+  "newerPosts" : "Publicaciones más recientes",
+  "olderPosts" : "Publicaciones más antiguas",
+  "comment" : "Comentario",
+  "tagged" : "Etiquetado",
+  "readMore" : "Leer más",
+  "source" : "Fuente",
+  "backToTop" : "Volver arriba",
+  "cart" : "Carrito",
+  "filter" : "Filtrar",
+  "all" : "Todo",
+  "commentCountMessage" : "{0, plural, one {{0,number} Comentario} other {{0,number} Comentarios}}"
+}

@@ -1,0 +1,18 @@
+{
+  "emptyPlaylist" : "Diese Playlist ist leer.",
+  "signIn" : "Einloggen",
+  "myAccount" : "Mein Konto",
+  "preFooterContent" : "Inhalte der Vor-Fußzeile",
+  "by" : "von",
+  "newerPosts" : "Neuere Einträge",
+  "olderPosts" : "Ältere Einträge",
+  "comment" : "Kommentar",
+  "tagged" : "Getaggt",
+  "readMore" : "Weiterlesen",
+  "source" : "Quelle",
+  "backToTop" : "Zurück zum Seitenanfang",
+  "cart" : "Warenkorb",
+  "filter" : "Filter",
+  "all" : "Alle",
+  "commentCountMessage" : "{0, plural, one {{0,number} Kommentar} other {{0,number} Kommentare}}"
+}

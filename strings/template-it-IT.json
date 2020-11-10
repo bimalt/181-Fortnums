@@ -1,0 +1,18 @@
+{
+  "emptyPlaylist" : "Questa playlist è vuota.",
+  "signIn" : "Accedi",
+  "myAccount" : "Il mio account",
+  "preFooterContent" : "Contenuto pre-piè di pagina",
+  "by" : "da",
+  "newerPosts" : "Post più recenti",
+  "olderPosts" : "Post meno recenti",
+  "comment" : "Commento",
+  "tagged" : "Taggato",
+  "readMore" : "Ulteriori informazioni",
+  "source" : "Sorgente",
+  "backToTop" : "Torna all'inizio",
+  "cart" : "Carrello",
+  "filter" : "Filtra",
+  "all" : "Tutti",
+  "commentCountMessage" : "{0, plural, one {{0,number} Commento} other {{0,number} Commenti}}"
+}

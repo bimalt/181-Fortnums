@@ -1,0 +1,18 @@
+{
+  "emptyPlaylist" : "Liste de lecture vide",
+  "signIn" : "Se Connecter",
+  "myAccount" : "Mon Compte",
+  "preFooterContent" : "Contenu du pied de page secondaire",
+  "by" : "par",
+  "newerPosts" : "Billets plus récents",
+  "olderPosts" : "Billets plus anciens",
+  "comment" : "Commentaire",
+  "tagged" : "Tag",
+  "readMore" : "Lire la suite",
+  "source" : "Source",
+  "backToTop" : "Haut de page",
+  "cart" : "Panier",
+  "filter" : "Filtre",
+  "all" : "Tout",
+  "commentCountMessage" : "{0, plural, one {{0,number} commentaire} other {{0,number} commentaires}}"
+}
